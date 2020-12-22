@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'phoneNumberAuth_unofficial'
-  s.version             = '5.8.2'
+  s.version             = '5.8.2.2'
   s.summary             = '中国移动号码认证SDK'
   s.requires_arc        = true
   s.homepage            = 'http://dev.10086.cn/docInside?contentId=10000067541479'
