@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
   s.frameworks          = 'Security', 'SystemConfiguration', 'WebKit'
   s.libraries           = 'iconv', 'sqlite3', 'c++', 'z'
   s.ios.vendored_frameworks = 'sdk/*.framework'
+  s.resource = 'sdk/TYRZResource.bundle'
 end
